@@ -1,2 +1,0 @@
-nexys video 
-riscv
